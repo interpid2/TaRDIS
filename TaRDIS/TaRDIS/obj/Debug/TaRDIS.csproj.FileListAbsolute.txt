@@ -1,0 +1,10 @@
+c:\users\marko\onedrive\documents\visual studio 2017\Projects\TaRDIS\TaRDIS\bin\Debug\TaRDIS.exe.config
+c:\users\marko\onedrive\documents\visual studio 2017\Projects\TaRDIS\TaRDIS\bin\Debug\TaRDIS.exe
+c:\users\marko\onedrive\documents\visual studio 2017\Projects\TaRDIS\TaRDIS\bin\Debug\TaRDIS.pdb
+c:\users\marko\onedrive\documents\visual studio 2017\Projects\TaRDIS\TaRDIS\obj\Debug\TaRDIS.csprojResolveAssemblyReference.cache
+c:\users\marko\onedrive\documents\visual studio 2017\Projects\TaRDIS\TaRDIS\obj\Debug\TaRDIS.Properties.Resources.resources
+c:\users\marko\onedrive\documents\visual studio 2017\Projects\TaRDIS\TaRDIS\obj\Debug\TaRDIS.csproj.GenerateResource.Cache
+c:\users\marko\onedrive\documents\visual studio 2017\Projects\TaRDIS\TaRDIS\obj\Debug\TaRDIS.exe
+c:\users\marko\onedrive\documents\visual studio 2017\Projects\TaRDIS\TaRDIS\obj\Debug\TaRDIS.pdb
+C:\Users\marko\OneDrive\documents\visual studio 2017\Projects\TaRDIS\TaRDIS\obj\Debug\TaRDIS.mainForm.resources
+C:\Users\marko\OneDrive\documents\visual studio 2017\Projects\TaRDIS\TaRDIS\obj\Debug\TaRDIS.graphForm.resources
