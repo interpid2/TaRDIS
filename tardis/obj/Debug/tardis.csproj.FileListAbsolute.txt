@@ -1,0 +1,11 @@
+C:\Users\Marko\documents\visual studio 2015\Projects\tardis\tardis\bin\Debug\tardis.exe.config
+C:\Users\Marko\documents\visual studio 2015\Projects\tardis\tardis\bin\Debug\tardis.exe
+C:\Users\Marko\documents\visual studio 2015\Projects\tardis\tardis\bin\Debug\tardis.pdb
+C:\Users\Marko\documents\visual studio 2015\Projects\tardis\tardis\obj\Debug\tardis.adminForm.resources
+C:\Users\Marko\documents\visual studio 2015\Projects\tardis\tardis\obj\Debug\tardis.Form1.resources
+C:\Users\Marko\documents\visual studio 2015\Projects\tardis\tardis\obj\Debug\tardis.Properties.Resources.resources
+C:\Users\Marko\documents\visual studio 2015\Projects\tardis\tardis\obj\Debug\tardis.userForm.resources
+C:\Users\Marko\documents\visual studio 2015\Projects\tardis\tardis\obj\Debug\tardis.csproj.GenerateResource.Cache
+C:\Users\Marko\documents\visual studio 2015\Projects\tardis\tardis\obj\Debug\tardis.exe
+C:\Users\Marko\documents\visual studio 2015\Projects\tardis\tardis\obj\Debug\tardis.pdb
+C:\Users\Marko\documents\visual studio 2015\Projects\tardis\tardis\obj\Debug\tardis.csprojResolveAssemblyReference.cache
